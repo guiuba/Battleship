@@ -33,7 +33,8 @@ Enter the coordinates of the Aircraft Carrier (5 cells):
 
 > F3 F7
 
-  1 2 3 4 5 6 7 8 9 10
+    1 2 3 4 5 6 7 8 9 10
+  
 A ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 B ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
@@ -58,7 +59,8 @@ Enter the coordinates of the Battleship (4 cells):
 
 > A1 D1
 
-  1 2 3 4 5 6 7 8 9 10
+    1 2 3 4 5 6 7 8 9 10
+  
 A O ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 B O ~ ~ ~ ~ ~ ~ ~ ~ ~
@@ -87,7 +89,8 @@ Error! Wrong length of the Submarine! Try again:
 
 > J10 J8
 
-  1 2 3 4 5 6 7 8 9 10
+    1 2 3 4 5 6 7 8 9 10
+  
 A O ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 B O ~ ~ ~ ~ ~ ~ ~ ~ ~
@@ -116,7 +119,8 @@ Error! Wrong ship location! Try again:
 
 > B9 D9
 
-  1 2 3 4 5 6 7 8 9 10
+    1 2 3 4 5 6 7 8 9 10
+  
 A O ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 B O ~ ~ ~ ~ ~ ~ ~ O ~
@@ -145,7 +149,8 @@ Error! You placed it too close to another one. Try again:
 
 > I2 J2
 
-  1 2 3 4 5 6 7 8 9 10
+    1 2 3 4 5 6 7 8 9 10
+    
 A O ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 B O ~ ~ ~ ~ ~ ~ ~ O ~
@@ -170,7 +175,8 @@ Press Enter and pass the move to another player
 ...
 Player 2, place your ships to the game field
 
-  1 2 3 4 5 6 7 8 9 10
+    1 2 3 4 5 6 7 8 9 10
+    
 A ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 B ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
@@ -195,7 +201,8 @@ Enter the coordinates of the Aircraft Carrier (5 cells):
 
 > H2 H6
 
-  1 2 3 4 5 6 7 8 9 10
+    1 2 3 4 5 6 7 8 9 10
+    
 A ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 B ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
@@ -220,7 +227,8 @@ Enter the coordinates of the Battleship (4 cells):
 
 > F3 F6
 
-  1 2 3 4 5 6 7 8 9 10
+    1 2 3 4 5 6 7 8 9 10
+    
 A ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 B ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
@@ -245,7 +253,8 @@ Enter the coordinates of the Submarine (3 cells):
 
 > H8 F8
 
-  1 2 3 4 5 6 7 8 9 10
+    1 2 3 4 5 6 7 8 9 10
+    
 A ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 B ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
@@ -268,7 +277,8 @@ J ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 ...
 
-  1 2 3 4 5 6 7 8 9 10
+    1 2 3 4 5 6 7 8 9 10
+    
 A ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 B ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
@@ -292,7 +302,8 @@ J ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 Press Enter and pass the move to another player
 ...
 
-  1 2 3 4 5 6 7 8 9 10
+    1 2 3 4 5 6 7 8 9 10
+    
 A ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 B ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
@@ -312,8 +323,11 @@ H ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 I ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 J ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 ---------------------
-  1 2 3 4 5 6 7 8 9 10
+
+    1 2 3 4 5 6 7 8 9 10
+    
 A O ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 B O ~ ~ ~ ~ ~ ~ ~ O ~
@@ -339,10 +353,13 @@ Player 1, it's your turn:
 > I3
 
 You missed!
+
 Press Enter and pass the move to another player
+
 ...
 
-  1 2 3 4 5 6 7 8 9 10
+    1 2 3 4 5 6 7 8 9 10
+    
 A ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 B ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
@@ -362,8 +379,11 @@ H ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 I ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 J ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 ---------------------
-  1 2 3 4 5 6 7 8 9 10
+
+    1 2 3 4 5 6 7 8 9 10
+    
 A ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 B ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
@@ -389,7 +409,9 @@ Player 2, it's your turn:
 > A1
 
 You hit a ship!
+
 Press Enter and pass the move to another player
+
 -----------------------------------------------
 
 public class Player2 extends BaseClass {

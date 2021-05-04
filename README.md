@@ -1,7 +1,8 @@
 # Battleship
 This is my solution to JetBrains Academy Battleship project stage 5/5
 
-Example
+Example:
+
 The greater-than symbol followed by a space (> ) represents the user input. Notice that it's not part of the input.
 
 Player 1, place your ships on the game field

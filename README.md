@@ -9,14 +9,23 @@ Player 1, place your ships on the game field
   1 2 3 4 5 6 7 8 9 10
   
 A ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 B ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 C ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 D ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 E ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 F ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 G ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 H ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 I ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 J ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 
@@ -26,14 +35,23 @@ Enter the coordinates of the Aircraft Carrier (5 cells):
 
   1 2 3 4 5 6 7 8 9 10
 A ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 B ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 C ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 D ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 E ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 F ~ ~ O O O O O ~ ~ ~
+
 G ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 H ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 I ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 J ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 Enter the coordinates of the Battleship (4 cells):
@@ -42,14 +60,23 @@ Enter the coordinates of the Battleship (4 cells):
 
   1 2 3 4 5 6 7 8 9 10
 A O ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 B O ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 C O ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 D O ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 E ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 F ~ ~ O O O O O ~ ~ ~
+
 G ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 H ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 I ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 J ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 Enter the coordinates of the Submarine (3 cells):
@@ -62,14 +89,23 @@ Error! Wrong length of the Submarine! Try again:
 
   1 2 3 4 5 6 7 8 9 10
 A O ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 B O ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 C O ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 D O ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 E ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 F ~ ~ O O O O O ~ ~ ~
+
 G ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 H ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 I ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 J ~ ~ ~ ~ ~ ~ ~ O O O
 
 Enter the coordinates of the Cruiser (3 cells):
@@ -82,14 +118,23 @@ Error! Wrong ship location! Try again:
 
   1 2 3 4 5 6 7 8 9 10
 A O ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 B O ~ ~ ~ ~ ~ ~ ~ O ~
+
 C O ~ ~ ~ ~ ~ ~ ~ O ~
+
 D O ~ ~ ~ ~ ~ ~ ~ O ~
+
 E ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 F ~ ~ O O O O O ~ ~ ~
+
 G ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 H ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 I ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 J ~ ~ ~ ~ ~ ~ ~ O O O
 
 Enter the coordinates of the Destroyer (2 cells):
@@ -102,14 +147,23 @@ Error! You placed it too close to another one. Try again:
 
   1 2 3 4 5 6 7 8 9 10
 A O ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 B O ~ ~ ~ ~ ~ ~ ~ O ~
+
 C O ~ ~ ~ ~ ~ ~ ~ O ~
+
 D O ~ ~ ~ ~ ~ ~ ~ O ~
+
 E ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 F ~ ~ O O O O O ~ ~ ~
+
 G ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 H ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 I ~ O ~ ~ ~ ~ ~ ~ ~ ~
+
 J ~ O ~ ~ ~ ~ ~ O O O
 
 Press Enter and pass the move to another player
@@ -118,14 +172,23 @@ Player 2, place your ships to the game field
 
   1 2 3 4 5 6 7 8 9 10
 A ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 B ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 C ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 D ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 E ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 F ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 G ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 H ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 I ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 J ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 Enter the coordinates of the Aircraft Carrier (5 cells):
@@ -134,14 +197,23 @@ Enter the coordinates of the Aircraft Carrier (5 cells):
 
   1 2 3 4 5 6 7 8 9 10
 A ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 B ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 C ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 D ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 E ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 F ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 G ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 H ~ O O O O O ~ ~ ~ ~
+
 I ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 J ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 Enter the coordinates of the Battleship (4 cells):
@@ -150,14 +222,23 @@ Enter the coordinates of the Battleship (4 cells):
 
   1 2 3 4 5 6 7 8 9 10
 A ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 B ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 C ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 D ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 E ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 F ~ ~ O O O O ~ ~ ~ ~
+
 G ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 H ~ O O O O O ~ ~ ~ ~
+
 I ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 J ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 Enter the coordinates of the Submarine (3 cells):
@@ -166,28 +247,46 @@ Enter the coordinates of the Submarine (3 cells):
 
   1 2 3 4 5 6 7 8 9 10
 A ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 B ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 C ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 D ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 E ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 F ~ ~ O O O O ~ O ~ ~
+
 G ~ ~ ~ ~ ~ ~ ~ O ~ ~
+
 H ~ O O O O O ~ O ~ ~
+
 I ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 J ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 ...
 
   1 2 3 4 5 6 7 8 9 10
 A ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 B ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 C ~ ~ ~ ~ ~ ~ ~ O ~ ~
+
 D ~ ~ ~ O O O ~ O ~ ~
+
 E ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 F ~ ~ O O O O ~ O ~ ~
+
 G ~ ~ ~ ~ ~ ~ ~ O ~ ~
+
 H ~ O O O O O ~ O ~ ~
+
 I ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 J ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 Press Enter and pass the move to another player
@@ -195,26 +294,44 @@ Press Enter and pass the move to another player
 
   1 2 3 4 5 6 7 8 9 10
 A ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 B ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 C ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 D ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 E ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 F ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 G ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 H ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 I ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 J ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 ---------------------
   1 2 3 4 5 6 7 8 9 10
 A O ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 B O ~ ~ ~ ~ ~ ~ ~ O ~
+
 C O ~ ~ ~ ~ ~ ~ ~ O ~
+
 D O ~ ~ ~ ~ ~ ~ ~ O ~
+
 E ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 F ~ ~ O O O O O ~ ~ ~
+
 G ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 H ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 I ~ O ~ ~ ~ ~ ~ ~ ~ ~
+
 J ~ O ~ ~ ~ ~ ~ O O O
 
 Player 1, it's your turn:
@@ -227,26 +344,44 @@ Press Enter and pass the move to another player
 
   1 2 3 4 5 6 7 8 9 10
 A ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 B ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 C ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 D ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 E ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 F ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 G ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 H ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 I ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 J ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 ---------------------
   1 2 3 4 5 6 7 8 9 10
 A ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 B ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 C ~ ~ ~ ~ ~ ~ ~ O ~ ~
+
 D ~ ~ ~ O O O ~ O ~ ~
+
 E ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 F ~ ~ O O O O ~ O ~ ~
+
 G ~ ~ ~ ~ ~ ~ ~ O ~ ~
+
 H ~ O O O O O ~ O ~ ~
+
 I ~ ~ M ~ ~ ~ ~ ~ ~ ~
+
 J ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 Player 2, it's your turn:

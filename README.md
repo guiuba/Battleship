@@ -19,6 +19,7 @@ H ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 I ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 J ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
+
 Enter the coordinates of the Aircraft Carrier (5 cells):
 
 > F3 F7

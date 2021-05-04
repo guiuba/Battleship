@@ -1,8 +1,7 @@
 # battleshipProject
 This is my solution to JetBrains Academy Battleship project stage 5/5
 
-src/battleship/Player2.java
-package battleship;
+
 
 public class Player2 extends BaseClass {
 
@@ -11,8 +10,6 @@ public class Player2 extends BaseClass {
     }
 
 }
-src/battleship/BaseClass.java
-package battleship;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -240,8 +237,6 @@ public enum ShipType {
     }
 
 }
-src/battleship/Main.java
-package battleship;
 
 import java.io.IOException;
 import java.util.Arrays;
@@ -294,8 +289,7 @@ public class Main {
         }
     }
 }
-src/battleship/Player1.java
-package battleship;
+
 
 public class Player1 extends BaseClass {
 
